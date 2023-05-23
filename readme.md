@@ -1,3 +1,4 @@
+<img align="center" alt= "banner" src="https://techsteamcenter.com/wp-content/uploads/2022/01/computer-language.png">
 <h1 align="center">Hi 👋, I'm Isha Pardikar</h1>
 <h3 align="center">A passionate Software Engineer from Mumbai</h3>
 
