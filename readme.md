@@ -1,33 +1,91 @@
-<img align="center" alt= "banner" src="https://techsteamcenter.com/wp-content/uploads/2022/01/computer-language.png">
-<h1 align="center">Hi 👋, I'm Isha Pardikar</h1>
-<h3 align="center">A passionate Software Engineer from Mumbai</h3>
+<div align="center">
+  <img height="150" src="https://habaritechtz.com/wp-content/uploads/2022/08/mohammad-rahmani-1bNQVGzuy0U-unsplash-scaled.webp"  />
+</div>
 
-<img align="right" alt="coding" width="400" src="https://i.imgur.com/aI5uuHl.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishapardikar&label=Profile%20views&color=0e75b6&style=flat" alt="ishapardikar" /> </p>
+###
 
+<h1 align="center">hey there!👋 I'm Isha Pardikar</h1>
 
+###
 
-<p align="left"> <a href="https://twitter.com/ishaapardikar" target="blank"><img src="https://img.shields.io/twitter/follow/ishaapardikar?logo=twitter&style=for-the-badge" alt="ishaapardikar" /></a> </p>
+<h3 align="center">A Software Engineer from Mumbai</h3>
 
-- 🌱 I’m currently learning **React**
+###
 
-- 📫 How to reach me **isha18pardikar@gmail.com**
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/55709f268c16ce34700a91078cc268935b36912a16be77ab9a3c47d9b699364d/68747470733a2f2f692e696d6775722e636f6d2f6149357575486c2e676966"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ishaapardikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishaapardikar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishapardikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishapardikar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18038674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18038674" height="30" width="40" /></a>
-<a href="https://instagram.com/ishaa.pardikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishaa.pardikar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/isha18pardikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="isha18pardikar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishapardikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishapardikar" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ishapardikar.ishapardikar&"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishapardikar&show_icons=true&locale=en&layout=compact" alt="ishapardikar" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishapardikar&show_icons=true&locale=en" alt="ishapardikar" /></p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/ishapardikar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://gmail.com/isha18pardikar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/ishaa.pardikar?igshid=MzRlODBiNWFlZA==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/isha18pardikar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishapardikar&" alt="ishapardikar" /></p>
+###
+
+<p align="left">- 🔭 I’m an IT Engineering Student<br>- 📚 I'm currently learning React<br>- 📫 How to reach me isha18pardikar@gmail.com<br>- ⚡ In my free time I listen to Music and scroll through instagram</p>
+
+###
+
+<h3 align="left">🛠 Language and tools:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="40" width="52" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ishapardikar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishapardikar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishapardikar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ishapardikar&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=91t8xq0epae4vsx3ny00k6ll0)">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ishapardikar/ishapardikar/output/snake.svg" alt="Snake animation" />
+
+###
