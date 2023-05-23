@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://habaritechtz.com/wp-content/uploads/2022/08/mohammad-rahmani-1bNQVGzuy0U-unsplash-scaled.webp"  />
-</div>
+
 
 ###
 
