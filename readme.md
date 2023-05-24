@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m an IT Engineering Student<br>- 📚 I'm currently learning React<br>- 📫 How to reach me isha18pardikar@gmail.com<br>- ⚡ In my free time I listen to Music and scroll through instagram</p>
+<p align="left">- 🔭 I’m an IT Engineering Student<br>- 📚 I'm currently learning Javascript <br>- 📫 How to reach me isha18pardikar@gmail.com<br>- ⚡ In my free time I listen to Music and scroll through instagram</p>
 
 ###
 
