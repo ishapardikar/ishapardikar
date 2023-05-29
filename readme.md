@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">A Software Engineer from Mumbai</h3>
+<h3 align="center">An IT Engineer from Mumbai</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m an IT Engineering Student<br>- 📚 I'm currently learning Javascript <br>- 📫 How to reach me isha18pardikar@gmail.com<br>- ⚡ In my free time I listen to Music and scroll through instagram</p>
+<p align="left">- /*🔭 I’m an IT Engineering Student<br>*/- 📚 I'm currently learning Javascript <br>- 📫 How to reach me isha18pardikar@gmail.com<br>- ⚡ In my free time I listen to Music and scroll through instagram</p>
 
 ###
 
